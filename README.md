@@ -65,6 +65,3 @@ Run `paping` using the compiled binary. Replace `www.google.com` with your targe
 - **`www.google.com`**: The target hostname.
 - **`-p 80`**: Specifies the port number (80 for HTTP).
 - **`-c 4`**: Sets the number of connection attempts (4 in this example).
-
----
-```
